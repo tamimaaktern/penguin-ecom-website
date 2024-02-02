@@ -1,0 +1,34 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.hd{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255 251 240 );
+    height: 650px;
+    width: 100%;
+}
+.hd h1{
+    color: rgb(250, 204, 21);
+    font-size: 48px;
+}
+.wr{
+    color: black;
+    margin-top: -700px;
+}
+.hd p{
+    height: 50px;
+}
+.btn{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgb(132 204 22  );
+    padding: 18px;
+    margin-top: 0px;
+    border-radius: 10px;
+}
+.mdl{
+    margin-left: 200px;
+}
