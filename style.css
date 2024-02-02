@@ -82,7 +82,7 @@
     display: flex;
     justify-content: center;
     background-color: #e5e7eb;
-    height: 500px;
+    height: 550px;
 }
 .fit{
     display: flex;
@@ -103,4 +103,11 @@
 .shp img{
     height:450px ;
     margin-left: 20px;
+}
+footer{
+    background-color: #e5e7eb;
+    height: 50px;
+}
+footer p{
+    text-align: center;
 }
