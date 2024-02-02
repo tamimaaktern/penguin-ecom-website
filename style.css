@@ -78,3 +78,29 @@
 .price a{
     margin-left: 220px;
 }
+.sc1{
+    display: flex;
+    justify-content: center;
+    background-color: #e5e7eb;
+    height: 500px;
+}
+.fit{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    height: 130px;
+    width: 750px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.fit img{
+    height: 85px;
+    margin-left: 20px;
+}
+.fit h4{
+    font-size: 20px;
+}
+.shp img{
+    height:450px ;
+    margin-left: 20px;
+}
